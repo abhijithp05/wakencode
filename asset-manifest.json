@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wakencode/static/css/main.47feb0b4.chunk.css",
+    "main.js": "/wakencode/static/js/main.2b11c538.chunk.js",
+    "main.js.map": "/wakencode/static/js/main.2b11c538.chunk.js.map",
+    "runtime-main.js": "/wakencode/static/js/runtime-main.cb64e0ad.js",
+    "runtime-main.js.map": "/wakencode/static/js/runtime-main.cb64e0ad.js.map",
+    "static/js/2.b271c0f2.chunk.js": "/wakencode/static/js/2.b271c0f2.chunk.js",
+    "static/js/2.b271c0f2.chunk.js.map": "/wakencode/static/js/2.b271c0f2.chunk.js.map",
+    "index.html": "/wakencode/index.html",
+    "precache-manifest.a23478b8963f1894e6181a278832ae11.js": "/wakencode/precache-manifest.a23478b8963f1894e6181a278832ae11.js",
+    "service-worker.js": "/wakencode/service-worker.js",
+    "static/css/main.47feb0b4.chunk.css.map": "/wakencode/static/css/main.47feb0b4.chunk.css.map",
+    "static/js/2.b271c0f2.chunk.js.LICENSE.txt": "/wakencode/static/js/2.b271c0f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb64e0ad.js",
+    "static/js/2.b271c0f2.chunk.js",
+    "static/css/main.47feb0b4.chunk.css",
+    "static/js/main.2b11c538.chunk.js"
+  ]
+}
